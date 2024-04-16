@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+YOU+ARE+WELCOME;I'M+A+SOFTWARE+ENGINEER)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+YOU+ARE+WELCOME+TO+MY+PAGE;I'M+AN+ASPIRING+SOFTWARE+ENGINEER)](https://git.io/typing-svg) 
 <h1 align="center">Hello 👋, I'm AUSTINE ODUOR</h1>
 <h3 align="center">A passionate full stack Developer from KENYA.</h3>
 <img align="right" alt="coding" widh="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
