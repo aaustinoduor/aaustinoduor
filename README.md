@@ -1,22 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+YOU+ARE+WELCOME+TO+MY+PAGE;I'M+AN+ASPIRING+SOFTWARE+ENGINEER)](https://git.io/typing-svg) 
-<h1 align="center">Hello 👋, I'm AUSTINE ODUOR</h1>
-<h3 align="center">A passionate full stack Developer, I am.</h3>
+<h1 align="center">Hello 👋, I'm AUSTINE ODUOR OWAGA</h1>
+<h3 align="center">A Software Engineer and a passionate full stack Developer.</h3>
 <img align="right" alt="coding" widh="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaustinoduor&label=Profile%20views&color=0e75b6&style=flat" alt="aaustinoduor" /> </p>
 
 
-- 🔭 I’m currently a software engineering student @alx [Software Engineering](Student)
+- 🔭 Graduated from ALX Africa software engineering Academy, @alx [Software Engineering,](COHORT,18)
 
-- 🌱 I’m currently learning **Flask,Python,JavaScript,Rust,typescripts,react**
+- 🌱 I’m currently perfecting my **Flask,Python,JavaScript,Rust,typescripts,react** skills.
 
-- 👯 I’m looking to collaborate on **Python and PHP projects**
+- 👯 I’m looking to collaborate on **Python**
 
 - 🤝 I’m looking for help with **Python projects**
 
 - 👨‍💻 All of my projects are available at [https://aaustinoduor@github.com/](https://aaustinoduor@github.com/)
 
-- 💬 Ask me about **react,laravel,PHP,Python,C,JavaScript,CSS,HTML**
+- 💬 Ask me about **react, rust, flask, django,laravel,PHP,Python,C,JavaScript,CSS,HTML**
 
 - 📫 How to reach me **aaustinoduorr@gmail.com**
 
